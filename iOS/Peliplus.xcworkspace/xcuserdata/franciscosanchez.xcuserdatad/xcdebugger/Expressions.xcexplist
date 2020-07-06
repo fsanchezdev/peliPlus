@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "closure #1 in SearchViewController._typeMovies():SearchViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "response.value">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in ViewController._movies():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "response.value">
+            </PersistentString>
+            <PersistentString
+               value = "resourceURL.URL_SHOW_ALL_MOVIES">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "UserCalificationViewController.viewDidLoad():UserCalificationViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "RegisterViewController._register():RegisterViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "nameTF.text">
+            </PersistentString>
+            <PersistentString
+               value = "passwordTF.text">
+            </PersistentString>
+            <PersistentString
+               value = "emailTF.text">
+            </PersistentString>
+            <PersistentString
+               value = "repeatPasswotdTF.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController._movies():ViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.tableView(_:willDisplay:forRowAt:):ViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.unwindToViewController(segue:):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "source.yearTF.text!">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "DetailViewController._imgMovieLoad(image:):DetailViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "resourceURL.URL_IMG_BASE+image">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController._movies(reload:):ViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in RegisterViewController._register():RegisterViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "response">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

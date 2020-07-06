@@ -1,0 +1,24 @@
+.img-small{
+    width: 300px;
+    height: auto;
+    margin: 5px;
+    border-radius: 5px;
+    display: block;
+}
+
+.img-small-2{
+    width: 60px;
+    height: auto;
+    margin: 2px;
+    border-radius: 5px;
+    display: block;
+}
+
+.table{
+    background: white !important;
+}
+
+.content{
+    background: white;
+    padding: 15px;
+}
